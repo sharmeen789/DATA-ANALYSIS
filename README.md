@@ -5,6 +5,7 @@ Election Analysis Project:
 In this Data Project I have looked at data from the election. I have Analyzed two datasets in this project. The first data set will be the results of political polls which is analyzing aggregated poll data and the second data set consisting of information on donations to the federal campaign which is donors data set. I have answered some questions for both the datasets to have a good analysis. In this project we will analyze two datasets. 
 
 First Data Set:
+
 1.) Who was being polled and what was their party affiliation?
 2.) Did the poll results favor Romney or Obama?
 3.) How do undecided voters effect the poll?
@@ -13,6 +14,7 @@ First Data Set:
 6.) Can we see an effect in the polls from the debates?
 
 Second Data Set:
+
 1.) How much was donated and what was the average donation?
 2.) How did the donations differ between candidates?
 3.) How did the donations differ between Democrats and Republicans?
