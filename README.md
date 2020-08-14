@@ -1,4 +1,4 @@
-Data Analysis projects using python scientific packages such as, Pandas, Numpy, Matplotlib and Seaborn Library for data manipulation and visualiziaton in a Jupyter notebook environment. 
+Data Analysis projects using python scientific packages such as, Pandas, Numpy, Matplotlib and Seaborn Library for data manipulation and visualiziaton in a Jupyter notebook environment and writing SQL query using Microsoft SQL Server Management Studio and Azure Data Studio to deal with relational databases.
 
 
 Election Analysis Project:                                                                                                                                  
@@ -40,6 +40,11 @@ Building a predictive model to answer the questions related to the survival of p
 4.) Who was alone and who was with family?  
 5.) What factors helped someone survive the sinking?
 
+Northwind Database analysis:                                                                                                                                   
+Business Analytics using Northwind Database in Microsoft SQL Server Management Studio and Azure Data Studio to deal with relational databases. 
+•	Products and Inventory Data Analysis with SQL
+•	Sales and Customers Data Analysis with SQL
+•	Employee and Staff Data Analysis with SQL
  
  
 
